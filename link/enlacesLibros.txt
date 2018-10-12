@@ -1,0 +1,7 @@
+Tecnun Aprenda C++
+Paul Bustamante
+http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf
+
+Lenguaje C
+Enrique Vicente Bonet Esteban
+https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf
