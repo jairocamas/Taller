@@ -1,4 +1,4 @@
 en esta carpeta se encuentran 4 archivos BOOK,CODE, DOCUMENTO, LINK.
-uno se encuentra oculto.
+uno se encuentra oculto. de eso se trata esta practica
 
 saludos¡¡
